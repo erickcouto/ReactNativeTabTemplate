@@ -23,7 +23,7 @@ Then run the project using react-native CLI
 react-native run-android
 ```
 
-## Built With love from Brazil to World.
+## Built with love from Portugal to World.
 
 - [erickalves.com.br](http://www.erickalves.com.br)
 - [erick.pt](http://www.erick.pt)
